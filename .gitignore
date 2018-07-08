@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+# Use yarn.lock instead
+package-lock.json
+
+# Documentation
+docs
